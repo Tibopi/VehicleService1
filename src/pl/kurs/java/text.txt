@@ -1,0 +1,133 @@
+rozszerz serwis o konta bankowe
+
+Bedzie klasa KontoBankowe, ktore ma pola: PIN, Numer, Saldo
+chcemy w momencie kupna czy sprzedazy samochodu dodawac/odejmowac $$$ z konta klienta
+
+podowiedz:
+BankAccountService, ktory jako pole bedzie mial List<BankAccount> list
+
+bedzie metoda pobierajaca konto (szuka po podanym numerze konta i pobiera PIN od uzytkownika i sprawdza jego poprawnosc)
+
+
+
+
+carservice busy, car,motocycle, wysweitl motocykle itp power?>
+
+
+
+
+
+napisz metode:
+- liczaca łąćzną ilość liter we wszystkich modelach samochdow done
+- liczaca łączną ilosc samoglosek w nazwach producentow     done
+            - znajdz najczesciej wystepującą literkę w nazwach producentów (Mapy)
+- znajdź ile % wszysktich pojazdow stanowia auta/motory/trucki    done
+- znajdz ile % jest pojazzdow na diesel done
+
+ */
+
+
+
+SORTWOANIE:
+
+   private void theMostPowerful() {
+//        vehicleService.getcarlist().sort(Comparator.comparingInt(Car::getPowerHp));
+//        System.out.println(vehicleService.getcarlist().toString());
+//    }
+//
+//    private void theSmallestMileage() {
+//
+//        vehicleService.getcarlist().sort(new CarComparatorMilage());
+//        System.out.println(vehicleService.getcarlist().toString());
+
+
+
+liczba zamoglosek
+ String a = "test";
+        char[] chars = a.toCharArray();
+
+        String s = a.toLowerCase();
+        String s1 = a.toUpperCase();
+
+
+
+
+ int counterA = 0;
+        int counterB = 0;
+        int counterC = 0;
+        int counterD = 0;
+        int counterE = 0;
+        int counterF = 0;
+        int counterG = 0;
+        int counterH = 0;
+        int counterI = 0;
+        int counterJ = 0;
+        int counterK = 0;
+        int counterL = 0;
+        int counterM = 0;
+        int counterN = 0;
+        int counterO = 0;
+        int counterP = 0;
+        int counterQ = 0;
+        int counterR = 0;
+        int counterS = 0;
+        int counterT = 0;
+        int counterU = 0;
+        int counterV = 0;
+        int counterW = 0;
+        int counterX = 0;
+        int counterY = 0;
+        int counterZ = 0;
+
+         if (ch.charAt(i) == 'a')
+                                counterA++;
+                            if (ch.charAt(i) == 'b')
+                                counterB++;
+                            if (ch.charAt(i) == 'c')
+                                counterC++;
+                            if (ch.charAt(i) == 'd')
+                                counterD++;
+                            if (ch.charAt(i) == 'e')
+                                counterE++;
+                            if (ch.charAt(i) == 'f')
+                                counterF++;
+                            if (ch.charAt(i) == 'g')
+                                counterG++;
+                            if (ch.charAt(i) == 'h')
+                                counterH++;
+                            if (ch.charAt(i) == 'i')
+                                counterI++;
+                            if (ch.charAt(i) == 'j')
+                                counterJ++;
+                            if (ch.charAt(i) == 'k')
+                                counterK++;
+                            if (ch.charAt(i) == 'l')
+                                counterL++;
+                            if (ch.charAt(i) == 'm')
+                                counterM++;
+                            if (ch.charAt(i) == 'n')
+                                counterN++;
+                            if (ch.charAt(i) == 'o')
+                                counterO++;
+                            if (ch.charAt(i) == 'p')
+                                counterP++;
+                            if (ch.charAt(i) == 'q')
+                                counterQ++;
+                            if (ch.charAt(i) == 'r')
+                                counterR++;
+                            if (ch.charAt(i) == 's')
+                                counterS++;
+                            if (ch.charAt(i) == 't')
+                                counterT++;
+                            if (ch.charAt(i) == 'u')
+                                counterU++;
+                            if (ch.charAt(i) == 'v')
+                                counterV++;
+                            if (ch.charAt(i) == 'w')
+                                counterW++;
+                            if (ch.charAt(i) == 'x')
+                                counterX++;
+                            if (ch.charAt(i) == 'y')
+                                counterY++;
+                            if (ch.charAt(i) == 'z')
+                                counterZ++;
